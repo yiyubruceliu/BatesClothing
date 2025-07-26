@@ -22,6 +22,7 @@ BatesClothing/
 ├── README.md           # This file
 ├── img/
 │   ├── logo.png        # Company logo
+│   ├── logo2.png       # Company logo with slogan
 │   └── suppliers/      # Supplier logos
 │       ├── TriCorp-Logo_zwart.png
 │       ├── payperwear logo.png
